@@ -193,6 +193,7 @@
   <project path="vendor/certification" name="vendor_certification" remote="gitlab" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="vos" />
   <project path="vendor/voltage" name="vendor_voltage" remote="vos" />
+  <project path="vendor/lineage_compat" name="vendor_lineage_compat" remote="vos" />
   <project path="vendor/SystemUIClocks" name="vendor_SystemUIClocks" remote="vos" />
   <project path="vendor/ota" name="android_vendor_voltageota" remote="vos" />
 
