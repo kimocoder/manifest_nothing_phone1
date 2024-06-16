@@ -51,7 +51,7 @@
   <project path="external/ant-wireless/hidl" name="external_ant-wireless_hidl" remote="vos" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="vos" />
   <project path="external/exfatprogs" name="external_exfatprogs" remote="vos" />
-  <!-- <project path="external/GmsCompatConfig" name="external_GmsCompatConfig" remote="vos" /> -->
+  <project path="external/GmsCompatConfig" name="external_GmsCompatConfig" remote="vos" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="vos" />
   <project path="external/json-c" name="external_json-c" remote="vos" />
   <project path="external/libcxx" name="external_libcxx" remote="vos" />
@@ -134,7 +134,7 @@
   <!-- <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="vos" /> -->
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="vos" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="vos" />
-  <!-- <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="vos" /> -->
+  <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="vos" />
   <!--<project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="vos" /> -->
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="vos" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vos" />
