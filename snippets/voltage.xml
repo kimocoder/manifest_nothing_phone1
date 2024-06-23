@@ -131,16 +131,16 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="vos" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="vos" />
   <project path="packages/apps/Etar" name="packages_apps_Etar" remote="vos" />
-  <!-- <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="vos" /> -->
+  <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="vos" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator" remote="vos" />
   <project path="packages/apps/Glimpse" name="packages_apps_Glimpse" remote="vos" />
   <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="vos" />
-  <!--<project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="vos" /> -->
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="vos" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="vos" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vos" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vos" />
-  <!-- <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="gitlab" /> -->
-  <!--<project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="vos" /> -->
+  <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="gitlab" />
+  <project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="vos" />
   <!-- <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="vos" /> -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vos" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vos" />
