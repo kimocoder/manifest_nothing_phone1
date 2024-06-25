@@ -141,7 +141,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vos" />
   <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="gitlab" />
   <project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="vos" />
-  <!-- <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="vos" /> -->
+  <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="vos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vos" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vos" />
   <!--<project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="vos" /> -->
@@ -168,7 +168,7 @@
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="vos" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="vos" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="vos" />
-  <!-- <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="gitlab" /> -->
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="gitlab" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/extract-tools" name="prebuilts_extract-tools" clone-depth="1" remote="vos" />
