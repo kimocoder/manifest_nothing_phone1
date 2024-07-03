@@ -144,11 +144,11 @@
   <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="vos" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vos" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vos" />
-  <!--<project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="vos" /> -->
+  <project path="packages/apps/SetupWizard" name="packages_apps_SetupWizard" remote="vos" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="vos" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="vos" />
   <!-- <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="vos" /> -->
-  <!-- <project path="packages/apps/Updater" name="packages_apps_Updater" remote="vos" /> -->
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="vos" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="vos" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="vos" />
   <project path="packages/modules/common" name="packages_modules_common" remote="vos" />
