@@ -62,6 +62,7 @@
   <project path="external/tinycompress" name="external_tinycompress" remote="vos" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="vos" />
   <!-- <project path="external/seedvault" name="external_seedvault" remote="vos" /> -->
+  <project path="external/setupcompat" name="external_setupcompat" remote="vos" />
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="vos" />
