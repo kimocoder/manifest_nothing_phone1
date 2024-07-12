@@ -61,7 +61,7 @@
   <project path="external/mksh" name="external_mksh" remote="vos" />
   <project path="external/tinycompress" name="external_tinycompress" remote="vos" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="vos" />
-  <!-- <project path="external/seedvault" name="external_seedvault" remote="vos" /> -->
+  <project path="external/seedvault" name="external_seedvault" remote="vos" />
   <project path="external/setupcompat" name="external_setupcompat" remote="vos" />
 
   <!-- Framework -->
@@ -162,6 +162,7 @@
   <project path="packages/modules/RemoteKeyProvisioning" name="packages_modules_RemoteKeyProvisioning" remote="vos" />  
   <project path="packages/modules/Uwb" name="packages_modules_Uwb" remote="vos" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="vos" />
+  <project path="packages/modules/StatsD" name="packages_modules_StatsD" remote="vos" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="vos" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="vos" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="vos" />
