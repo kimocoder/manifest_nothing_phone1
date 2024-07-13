@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="vos"
            revision="14"
-           fetch="https://github.com/VoltageOS-staging" />
+           fetch="https://github.com/VoltageOS" />
 
   <remote  name="VoltageOS-Devices"
            revision="14"
@@ -125,7 +125,7 @@
 
   <!-- Packages -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="vos" />
- <!--  <project path="packages/apps/BtHelper" name="packages_apps_BtHelper" remote="vos" /> -->
+  <project path="packages/apps/BtHelper" name="packages_apps_BtHelper" remote="vos" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="vos" />
   <project path="packages/apps/Covers" name="packages_apps_Covers" remote="vos" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="vos" />
@@ -199,6 +199,6 @@
   <project path="vendor/voltage-priv/keys" name="vendor_voltage-priv_keys" remote="vos" />
   <project path="vendor/lineage_compat" name="vendor_lineage_compat" remote="vos" />
   <project path="vendor/SystemUIClocks" name="vendor_SystemUIClocks" remote="vos" />
-  <!-- <project path="vendor/ota" name="android_vendor_voltageota" remote="vos" /> -->
+  <project path="vendor/ota" name="android_vendor_voltageota" remote="vos" />
 
 </manifest>
