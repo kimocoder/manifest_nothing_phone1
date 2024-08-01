@@ -49,6 +49,7 @@
   <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="vos" />
   <project path="external/ant-wireless/ant_service" name="external_ant-wireless_ant_service" remote="vos" />
   <project path="external/ant-wireless/hidl" name="external_ant-wireless_hidl" remote="vos" />
+  <project path="external/dtc" name="external_dtc" remote="vos" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="vos" />
   <project path="external/exfatprogs" name="external_exfatprogs" remote="vos" />
   <project path="external/GmsCompatConfig" name="external_GmsCompatConfig" remote="vos" />
