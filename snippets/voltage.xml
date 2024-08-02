@@ -64,6 +64,7 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="vos" />
   <project path="external/seedvault" name="external_seedvault" remote="vos" />
   <project path="external/setupcompat" name="external_setupcompat" remote="vos" />
+  <project path="external/tigervnc" name="external_tigervnc" groups="pdk" remote="vos" />
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="vos" />
@@ -151,6 +152,7 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="vos" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="vos" />
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="vos" />
+  <project path="packages/apps/DesktopMode" name="packages_apps_DesktopMode" remote="vos" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="vos" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="vos" />
   <project path="packages/modules/common" name="packages_modules_common" remote="vos" />
@@ -172,6 +174,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="vos" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="vos" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="gitlab" />
+  <project path="packages/services/VncFlinger" name="packages_services_VncFlinger" remote="vos" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/extract-tools" name="prebuilts_extract-tools" clone-depth="1" remote="vos" />
