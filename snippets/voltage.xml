@@ -50,6 +50,7 @@
   <project path="external/gptfdisk" name="external_gptfdisk" remote="vos" />
   <project path="external/json-c" name="external_json-c" remote="vos" />
   <project path="external/mksh" name="external_mksh" remote="vos" />
+  <project path="external/ntfs-3g" name="external_ntfs-3g" remote="vos" />
   <project path="external/setupcompat" name="external_setupcompat" remote="vos" />
   <project path="external/tinycompress" name="external_tinycompress" remote="vos" />
   <project path="external/tigervnc" name="external_tigervnc" groups="pdk" remote="vos" />
