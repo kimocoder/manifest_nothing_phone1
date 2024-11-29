@@ -54,6 +54,7 @@
   <project path="external/setupcompat" name="external_setupcompat" remote="vos" />
   <project path="external/tinycompress" name="external_tinycompress" remote="vos" />
   <project path="external/tigervnc" name="external_tigervnc" groups="pdk" remote="vos" />
+  <project path="external/talkback" name="external_talkback" remote="vos" />
 
   <!-- Framework -->
   <project path="frameworks/av" name="frameworks_av" remote="vos" />
