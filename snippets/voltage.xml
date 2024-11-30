@@ -128,6 +128,7 @@
   <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="vos" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="vos" />
   <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="vos" />
+  <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="vos" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vos" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vos" />
   <project path="packages/apps/ParallelSpace" name="packages_apps_ParallelSpace" remote="vos" />
