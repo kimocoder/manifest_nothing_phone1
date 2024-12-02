@@ -117,6 +117,7 @@
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="vos" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="vos" />
   <project path="packages/apps/Covers" name="packages_apps_Covers" remote="vos" />
+  <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="vos" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="vos" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="vos" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="vos" />
