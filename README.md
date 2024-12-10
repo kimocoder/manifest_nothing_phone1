@@ -4,7 +4,7 @@
 
 ### Sync ###
 ```bash
-        repo init -u https://github.com/VoltageOS/manifest.git -b 15 --git-lfs
+        repo init -u https://github.com/kimocoder/manifest_nothing_phone1.git -b 15 --git-lfs
         repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
